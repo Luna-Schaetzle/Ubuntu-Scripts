@@ -1,0 +1,6 @@
+News Flash mit der NEWS API ermitteln
+
+(eventuell SQPLite)
+
+Skript erweitern mit Ollama NEWS flash
+(eventuell mit Voice)
